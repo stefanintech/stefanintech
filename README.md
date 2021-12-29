@@ -1,7 +1,8 @@
 - 👋🏽 Hafa Adai (Hello in my language), I’m @codewithfan
-- 👀 I’m interested in learning programming 💻 crosslift🏋🏽‍♂️ and reddit 🍒
-- 🌱 I’m currently learning Foundations on The Odin Project
-- 🤝🏽 I’m looking to collaborate on future projects once I completed the Foundation section
+- 🇺🇸 U.S. Army Active Duty transitioning into Tech
+- 👀 Journey to becoming a self-taught developer
+- 🌱 I’m currently learning Foundations on The Odin Project. Next will be Full-stack JS
+- 🤝🏽 Open to networking and learning tech with the community
 - 🐦 Twitter would be the best way to reach me
 
 <!---
