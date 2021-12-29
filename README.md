@@ -1,9 +1,17 @@
-- 👋🏽 Hafa Adai (Hello in my language), I’m @codewithfan
-- 🇺🇸 U.S. Army Active Duty transitioning into Tech
-- 👀 Journey to becoming a self-taught developer
-- 🌱 I’m currently learning Foundations on The Odin Project. Next will be Full-stack JS
-- 🤝🏽 Open to networking and learning tech with the community
-- 🐦 Twitter would be the best way to reach me
+## 👋🏽 Hafa Adai (Hello in my language)
+
+# ▷ About Me
+
+- 🇺🇸 U.S. Army active duty transitioning into tech to becoming a self-taught developer
+- 🌱 Learning full-stack JS on the odin project
+- 🤝🏽 Approachable, open to networking and learning new things
+- 📫 Lets link  on [Twitter](https://twitter.com/codewithfan)
+
+# ▷ Fan Facts
+
+- ⚽️ Enjoy watching football (still trying to find a club to follow)
+- ✈️  Traveling
+- 🏋🏾‍♂️ Crossfit + bodybuilding
 
 <!---
 codewithfan/codewithfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
