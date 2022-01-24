@@ -2,8 +2,8 @@
 
 # ▷ About Me
 
-- 🇺🇸 U.S. Army active duty transitioning into tech to becoming a self-taught developer
-- 🌱 Learning full-stack JS on the odin project
+- 🇺🇸 U.S. Army active duty transitioning into tech to becoming a developer
+- 🌱 Learning full-stack at #100Devs
 - 🤝🏽 Approachable, open to networking and learning new things
 - 📫 Lets link  on [Twitter](https://twitter.com/codewithfan)
 
