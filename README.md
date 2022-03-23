@@ -2,14 +2,14 @@
 
 # ▷ About Me
 
-- 🇺🇸 U.S. Army active duty transitioning into tech to becoming a developer
-- 🌱 Learning full-stack at #100Devs
+- 🇺🇸 U.S. Army Soldier + Software Engineer
+- 🌱 Full Stack Web Developer with #100Devs
 - 🤝🏽 Approachable, open to networking and learning new things
 - 📫 Lets link  on [Twitter](https://twitter.com/codewithfan)
 
 # ▷ Fan Facts
 
-- ⚽️ Enjoy watching football (still trying to find a club to follow)
+- ⚽️ Enjoy watching football (Nottingham!)
 - ✈️  Traveling
 - 🏋🏾‍♂️ Crossfit + bodybuilding
 
