@@ -2,7 +2,7 @@
 
 # ▷ About Me
 
-- 🌱 Full Stack Web Developer
+- 🌱 Full Stack Developer
 - 🇺🇸 U.S. Army Soldier
 - 🤝🏽 Approachable, open to networking and learning new things
 - 📫 Lets link  on [Twitter](https://twitter.com/codewithfan)
