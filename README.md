@@ -2,8 +2,8 @@
 
 # ▷ About Me
 
-- 🇺🇸 U.S. Army Soldier + Software Engineer
-- 🌱 Full Stack Web Developer with #100Devs
+- 🌱 Full Stack Web Developer
+- 🇺🇸 U.S. Army Soldier
 - 🤝🏽 Approachable, open to networking and learning new things
 - 📫 Lets link  on [Twitter](https://twitter.com/codewithfan)
 
@@ -11,7 +11,7 @@
 
 - ⚽️ Enjoy watching football (Nottingham!)
 - ✈️  Traveling
-- 🏋🏾‍♂️ Crossfit + bodybuilding
+- 🏋🏾‍♂️ Crossfit + Bodybuilding
 
 <!---
 codewithfan/codewithfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
