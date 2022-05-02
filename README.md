@@ -1,11 +1,15 @@
 <h1 align="center">Hi 🤙🏽 , I'm Stefan Taitano</h1>
-<h3 align="center">Software Engineer and U.S. Army Soldier with a deep interest in A.I.</h3>
+<h3 align="center">Software Engineer and U.S. Army Soldier with a love for Football ⚽️ and A.I. 🤖</h3>
 
-<p align="left"> <a href="https://twitter.com/codewithfan" target="blank"><img src="https://img.shields.io/twitter/follow/codewithfan?logo=twitter&style=for-the-badge" alt="codewithfan" /></a> </p>
+<p align="center"> <a href="https://twitter.com/codewithfan" target="blank"><img src="https://img.shields.io/twitter/follow/codewithfan?logo=twitter&style=for-the-badge" alt="codewithfan" /></a> </p>
+
+- ✅ **Available for Freelance**
 
 - 📫 How to reach me: **stefantaitano@gmail.com**
 
 - ⚡ Fun fact: **I am from the beautiful island of Guam! 🇬🇺**
+
+- ✍🏽 [I blog about tech & life](https://stefantaitano.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
