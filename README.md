@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤙🏽 , I'm Stefan Taitano</h1>
-<h3 align="center">Software Engineer and U.S. Army Soldier with a love for Football ⚽️ and A.I. 🤖</h3>
+<h3 align="center">Software Engineer and U.S. Army Soldier with a love for Football ⚽️ and Age of Empire ⚔️</h3>
 
 <p align="center"> <a target"_blank" href="https://twitter.com/codewithfan" target="blank"><img src="https://img.shields.io/twitter/follow/codewithfan?logo=twitter&style=for-the-badge" alt="codewithfan" /></a> </p>
 
