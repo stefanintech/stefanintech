@@ -1,22 +1,82 @@
-<h1 align="center">Hi 🤙🏽 , I'm Stefan Taitano</h1>
-<h3 align="center">Software Engineer and U.S. Army Soldier with a love for Football ⚽️ and Age of Empire ⚔️</h3>
+# Stefan Taitano
 
-<p align="center"> <a target"_blank" href="https://twitter.com/codewithfan" target="blank"><img src="https://img.shields.io/twitter/follow/codewithfan?logo=twitter&style=for-the-badge" alt="codewithfan" /></a> </p>
+<img src="github-banner.png" alt="personal banner">
 
-- ✅ **Available for Freelance**
+<p>Passion to serve others, solve problems, and create effective solutions one line of code at a time.</p>
 
-- 📫 How to reach me: **stefantaitano@gmail.com**
+## Tech Stack
 
-- ⚡ Fun fact: **I am from the beautiful island of Guam! 🇬🇺**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- ✍🏽 <a target="_blank" href="https://stefantaitano.hashnode.dev/">Checkout my blog for tech, fitness, and lifestyle content!</a>
+## Social Media
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/stefantaitano" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stefantaitano" height="30" width="40" /></a>
-<a href="https://twitter.com/codewithfan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithfan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stefantaitano" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefantaitano" height="30" width="40" /></a>
-</p>
+<a target="_blank" href="https://stefantaitano.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+</a>
+<a target="_blank" href="https://twitter.com/codewithfan">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/stefantaitano/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a target="_blank" href="https://angel.co/u/stefan-taitano">
+  <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
+</a>
+<a target="_blank" href="https://stefantaitano.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- PROJECTS -->
+
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Personal Portfolio</h2>
+				<div align="center" >  
+					<a href='https://stefantaitano.netlify.app/'>
+						<img src="personal-profile.gif" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/codewithfan/Portfolio-2022" target="_blank">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+						</a>  
+						<a href="https://stefantaitano.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Discover my projects, hobbies, and a little about me!</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">Tic Tac Toe</h2>
+				<div align="center" >  
+					<a href='https://tictactoebattle.netlify.app/'>
+						<img src="tictactoe.gif" height="80%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/codewithfan/tic-tac-toe" target="_blank">
+							<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+						</a>  
+						<a href="https://tictactoebattle.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+						</a>	
+					</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe battler.</p>
+				</div>
+			</td>
+		</tr>
+	</table>
+<br>
+</br>
