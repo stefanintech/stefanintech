@@ -42,7 +42,7 @@
 				<h3 align="center" color="white">Star Trek Field Guide</h2>
 				<div align="center" >  
 					<a href='https://startrekfieldguide.netlify.app/'>
-						<img src="personal-profile.gif" height="100%" />
+						<img src="trekkie.gif" height="100%" />
 					</a>
 					<br>
 					<br>
