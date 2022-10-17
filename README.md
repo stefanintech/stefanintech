@@ -54,7 +54,7 @@
 							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Discover my projects, hobbies, and a little about me!</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Search for information on the aliens in the Star Trek Universe!</p>
 				</div>
 			</td>
 			<td width="33%">
