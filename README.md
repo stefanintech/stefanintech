@@ -66,7 +66,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/codewithfan/Portfolio-2022" target="_blank">
+						<a href="https://github.com/codewithfan/myportfolio" target="_blank">
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
 						</a>  
 						<a href="https://stefantaitano.dev/" target="_blank">
