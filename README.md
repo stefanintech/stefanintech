@@ -16,7 +16,7 @@
 
 ## Social Media
 
-<a target="_blank" href="https://stefantaitano.netlify.app/">
+<a target="_blank" href="https://stefantaitano.dev/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <a target="_blank" href="https://twitter.com/codewithfan">
@@ -60,7 +60,7 @@
 			<td width="33%">
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
-					<a href='https://stefantaitano.netlify.app/'>
+					<a href='https://stefantaitano.dev/'>
 						<img src="personal-profile.gif" height="100%" />
 					</a>
 					<br>
@@ -69,7 +69,7 @@
 						<a href="https://github.com/codewithfan/Portfolio-2022" target="_blank">
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
 						</a>  
-						<a href="https://stefantaitano.netlify.app/" target="_blank">
+						<a href="https://stefantaitano.dev/" target="_blank">
 							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
 						</a>	
 					</p>
