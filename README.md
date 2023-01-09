@@ -2,7 +2,7 @@
 
 <img src="github-banner.png" alt="personal banner">
 
-<p>Passion to serve others, solve problems, and create effective solutions one line of code at a time.</p>
+<p align="center">Passion to serve others, solve problems, and create effective solutions one line of code at a time.</p>
 
 ## Tech Stack
 
