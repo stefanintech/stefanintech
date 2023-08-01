@@ -39,6 +39,25 @@
 	<table>
 		<tr>
 			<td width="33%">
+				<h3 align="center" color="white">GitHub Discovery</h2>
+				<div align="center" >  
+					<a href='https://githubdiscovery.vercel.app/'>
+						<img src="github-discovery.gif" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/codewithfan/github-finder" target="_blank">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+						</a>  
+						<a href="https://githubdiscovery.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+						</a>	
+					</p>
+					<p><strong>React, JavaScript, Tailwind, DaisyUI</strong> - Find your friends profile on GitHub!</p>
+				</div>
+			</td>
+   <td width="33%">
 				<h3 align="center" color="white">Star Trek Field Guide</h2>
 				<div align="center" >  
 					<a href='https://startrekfieldguide.netlify.app/'>
@@ -55,25 +74,6 @@
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5</strong> - Search for information on the aliens in the Star Trek Universe!</p>
-				</div>
-			</td>
-			<td width="33%">
-				<h3 align="center" color="white">Personal Portfolio</h2>
-				<div align="center" >  
-					<a href='https://stefantaitano.dev/'>
-						<img src="personal-profile.gif" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/codewithfan/myportfolio" target="_blank">
-            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
-						</a>  
-						<a href="https://stefantaitano.dev/" target="_blank">
-							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
-						</a>	
-					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Discover my projects, hobbies, and a little about me!</p>
 				</div>
 			</td>
 			<td width="33%">
