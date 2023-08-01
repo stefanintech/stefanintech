@@ -77,22 +77,22 @@
 				</div>
 			</td>
 			<td width="33%">
-				<h3 align="center" color="white">Tic Tac Toe</h2>
+				<h3 align="center" color="white">Feedback Fountain</h2>
 				<div align="center" >  
-					<a href='https://tictactoebattle.netlify.app/'>
-						<img src="tictactoe.gif" height="80%" />
+					<a href='https://feedbackfountain.netlify.app/'>
+						<img src="feedback-fountain.gif" height="80%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/codewithfan/tic-tac-toe" target="_blank">
+						<a href="https://github.com/codewithfan/feedback-app" target="_blank">
 							<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
 						</a>  
-						<a href="https://tictactoebattle.netlify.app/" target="_blank">
+						<a href="https://feedbackfountain.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe battler.</p>
+					 <p><strong>React, JavaScript, CSS3, HTML5</strong> - Customer platform to submit reviews for any business.</p>
 				</div>
 			</td>
 		</tr>
