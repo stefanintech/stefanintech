@@ -80,7 +80,7 @@
 				<h3 align="center" color="white">Feedback Fountain</h2>
 				<div align="center" >  
 					<a href='https://feedbackfountain.netlify.app/'>
-						<img src="feedback-fountain.gif" height="80%" />
+						<img src="feedback-fountain.gif" height="100%" />
 					</a>
 					<br>
 					<br>
