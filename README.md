@@ -37,8 +37,26 @@
 <h2 align="center" color="white">Projects</h2>
 <div align="center">
 	<table>
-		<tr>
-			<td width="33%">
+		<tr><td width="25%">
+				<h3 align="center" color="white">StudioScape</h2>
+				<div align="center">  
+					<a href='https://studioscape.vercel.app/'>
+						<img src="studioscape.gif" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/codewithfan/studioscape" target="_blank">
+							<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+						</a>  
+						<a href="https://studioscape.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
+						</a>	
+					</p>
+					 <p><strong>React, JavaScript, Firebase</strong> - Book a studio for your next creative splurge!</p>
+				</div>
+			</td>
+			<td width="25%">
 				<h3 align="center" color="white">GitHub Discovery</h2>
 				<div align="center" >  
 					<a href='https://githubdiscovery.vercel.app/'>
@@ -57,7 +75,7 @@
 					<p><strong>React, JavaScript, Tailwind, DaisyUI</strong> - Find your friends profile on GitHub!</p>
 				</div>
 			</td>
-   <td width="33%">
+   			<td width="25%">
 				<h3 align="center" color="white">Star Trek Field Guide</h2>
 				<div align="center" >  
 					<a href='https://startrekfieldguide.netlify.app/'>
@@ -67,7 +85,7 @@
 					<br>
 					<p>
 						<a href="https://github.com/codewithfan/star-trek-client" target="_blank">
-            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
+            					<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github badge">
 						</a>  
 						<a href="https://startrekfieldguide.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Website-272b33?logo=circle&logoColor=39d353&style=for-the-badge" alt="website badge">
@@ -76,7 +94,7 @@
 					<p><strong>JavaScript, CSS3, HTML5</strong> - Search for information on the aliens in the Star Trek Universe!</p>
 				</div>
 			</td>
-			<td width="33%">
+			<td width="25%">
 				<h3 align="center" color="white">Feedback Fountain</h2>
 				<div align="center" >  
 					<a href='https://feedbackfountain.netlify.app/'>
@@ -95,7 +113,6 @@
 					 <p><strong>React, JavaScript, CSS3, HTML5</strong> - Customer platform to submit reviews for any business.</p>
 				</div>
 			</td>
-		</tr>
-	</table>
+			
 <br>
 </br>
