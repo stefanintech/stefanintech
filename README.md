@@ -19,7 +19,7 @@
 <a target="_blank" href="https://stefantaitano.dev/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
-<a target="_blank" href="https://twitter.com/codewithfan">
+<a target="_blank" href="https://twitter.com/stefanintech">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/stefantaitano/">
