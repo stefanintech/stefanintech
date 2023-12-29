@@ -1,6 +1,6 @@
 # Stefan Taitano
 
-<img src="github-banner-v2.png" alt="personal banner">
+<img src="twitter-banner.png" alt="personal banner">
 
 <p align="center">Passion to serve others, solve problems, and create effective solutions one line of code at a time.</p>
 
