@@ -16,7 +16,7 @@
 
 ## Social Media
 
-<a target="_blank" href="https://stefanataitano.netlify.app/">
+<a target="_blank" href="https://stefantaitano.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <a target="_blank" href="https://bsky.app/profile/stefantaitano.com">
