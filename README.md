@@ -2,7 +2,7 @@
 
 <img src="twitter-banner.png" alt="personal banner">
 
-<p align="center">Passion to serve others, solve problems, and create effective solutions one line of code at a time.</p>
+<p align="center">I solve problems in ServiceNow, lift heavy things for fun, and plot my next chess move.</p>
 
 ## Tech Stack
 
