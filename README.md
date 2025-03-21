@@ -1,6 +1,6 @@
 # Stefan Taitano
 
-<img src="twitter-banner.png" alt="personal banner">
+<img src="linkedin-banner.png" alt="personal banner">
 
 <p align="center">I solve problems in ServiceNow, lift heavy things for fun, and plot my next chess move.</p>
 
