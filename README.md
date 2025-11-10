@@ -4,6 +4,7 @@
 
 <p align="center">I solve problems in ServiceNow, lift heavy things for fun, and plot my next chess move.</p>
 <p align="center">Building a Motorpool Loaner Vehicle application in ServiceNow</p>
+<p align="center">Web Dev arc with The Odin Project. I quit in the summer of 2021 and with the skillset I have now, want to finally "complete" this once and for all!!!</p>
 
 ## Tech Stack
 
